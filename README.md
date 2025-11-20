@@ -1,2 +1,3 @@
 # Finetune-Qwen-Apple-Knowledge
-Finuted version of the 1.5B Qwen 2 model.
+A Qwen2.5 1.5B Instruct model that is finetuned to answer Apple related inquiries. Dataset from Kaggle.
+https://www.kaggle.com/datasets/aashidutt3/all-about-apple-devices/versions/1?resource=download 
